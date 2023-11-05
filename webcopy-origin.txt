@@ -1,0 +1,1328 @@
+Uri: http://icassessments.com/wp-content/uploads/2017/06/blog-post-2.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\06\blog-post-2.jpg
+Content Type: image/jpeg
+
+Uri: http://icassessments.com/wp-content/uploads/2017/06/dotted-bg-light.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\06\dotted-bg-light.png
+Content Type: image/png
+
+Uri: http://icassessments.com/wp-content/uploads/2017/07/dotted-bg-dark.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\07\dotted-bg-dark.png
+Content Type: image/png
+
+Uri: http://icassessments.com/wp-content/uploads/2020/07/op.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\op.jpg
+Content Type: image/jpeg
+
+Uri: http://icassessments.com/wp-content/uploads/2020/09/C.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\09\C.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Fira+Sans:700%2Cregular%2C500%2C400i%2Citalic&subset=latin&ver=1.0.0
+File Name: C:\Downloaded Web Sites\icassessments.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Fira+Sans:700|Roboto:400
+File Name: C:\Downloaded Web Sites\icassessments.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.6.12
+File Name: C:\Downloaded Web Sites\icassessments.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400%2C500
+File Name: C:\Downloaded Web Sites\icassessments.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:500%2C400
+File Name: C:\Downloaded Web Sites\icassessments.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnLK3eRhf_.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnLK3eRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnZKveRhf_.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\firasans\v17\va9B4kDNxMZdWfMOD5VnZKveRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9C4kDNxMZdWfMOD5VvkrjJYTc.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\firasans\v17\va9C4kDNxMZdWfMOD5VvkrjJYTc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firasans/v17/va9E4kDNxMZdWfMOD5Vvl4jO.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\firasans\v17\va9E4kDNxMZdWfMOD5Vvl4jO.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://icassessments.com/
+File Name: C:\Downloaded Web Sites\icassessments.com\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/about-us/
+File Name: C:\Downloaded Web Sites\icassessments.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/contact-us/
+File Name: C:\Downloaded Web Sites\icassessments.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/feed/
+File Name: C:\Downloaded Web Sites\icassessments.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://icassessments.com/portfolio/iso-140012015-environmental-management-system/
+File Name: C:\Downloaded Web Sites\icassessments.com\portfolio\iso-140012015-environmental-management-system\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/portfolio/iso-140012015-environmental-management-system/feed/
+File Name: C:\Downloaded Web Sites\icassessments.com\portfolio\iso-140012015-environmental-management-system\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://icassessments.com/portfolio/iso-20000-12018-it-service-management-system/
+File Name: C:\Downloaded Web Sites\icassessments.com\portfolio\iso-20000-12018-it-service-management-system\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/portfolio/iso-20000-12018-it-service-management-system/feed/
+File Name: C:\Downloaded Web Sites\icassessments.com\portfolio\iso-20000-12018-it-service-management-system\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://icassessments.com/portfolio/iso-270012013-information-security-management-system/
+File Name: C:\Downloaded Web Sites\icassessments.com\portfolio\iso-270012013-information-security-management-system\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/portfolio/iso-270012013-information-security-management-system/feed/
+File Name: C:\Downloaded Web Sites\icassessments.com\portfolio\iso-270012013-information-security-management-system\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://icassessments.com/portfolio/iso-450012018-occupational-health-safety-management-system/
+File Name: C:\Downloaded Web Sites\icassessments.com\portfolio\iso-450012018-occupational-health-safety-management-system\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/portfolio/iso-450012018-occupational-health-safety-management-system/feed/
+File Name: C:\Downloaded Web Sites\icassessments.com\portfolio\iso-450012018-occupational-health-safety-management-system\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://icassessments.com/portfolio/iso-90012015-quality-management-system/
+File Name: C:\Downloaded Web Sites\icassessments.com\portfolio\iso-90012015-quality-management-system\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/portfolio/iso-90012015-quality-management-system/feed/
+File Name: C:\Downloaded Web Sites\icassessments.com\portfolio\iso-90012015-quality-management-system\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://icassessments.com/project-details/abc-bank-staff-training/
+File Name: C:\Downloaded Web Sites\icassessments.com\project-details\abc-bank-staff-training\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/project-details/b-capital-finacial-training/
+File Name: C:\Downloaded Web Sites\icassessments.com\project-details\b-capital-finacial-training\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/project-details/eu-technology-summit-organization/
+File Name: C:\Downloaded Web Sites\icassessments.com\project-details\eu-technology-summit-organization\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/project-details/tech-drones-lansman/
+File Name: C:\Downloaded Web Sites\icassessments.com\project-details\tech-drones-lansman\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/project-details/wonder-vr-lansman/
+File Name: C:\Downloaded Web Sites\icassessments.com\project-details\wonder-vr-lansman\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/projects/
+File Name: C:\Downloaded Web Sites\icassessments.com\projects\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/services/
+File Name: C:\Downloaded Web Sites\icassessments.com\services\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/terms-of-use/
+File Name: C:\Downloaded Web Sites\icassessments.com\terms-of-use\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/verify-certificate/
+File Name: C:\Downloaded Web Sites\icassessments.com\verify-certificate\index.htm
+Content Type: text/html
+
+Uri: https://icassessments.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.10.3
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.10.3
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.10.3
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.3.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.3.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.3.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.3.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.3.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.3.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.3.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.12.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.12.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.12.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.12.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: font/woff2
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.12.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: font/woff
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.3.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/assets/dummy.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\assets\dummy.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.0
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.8.2
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\plugins\wp-smush-pro\app\assets\js\smush-lazy-load.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/app.min.css?ver=1.9
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\app.min.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/fontello/css/fontello.css?ver=1.9
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\fontello\css\fontello.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/fontello/font/fontello.eot?90983306
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\fontello\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/fontello/font/fontello.svg?90983306
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\fontello\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/fontello/font/fontello.ttf?90983306
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\fontello\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/fontello/font/fontello.woff2?90983306
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\fontello\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/fontello/font/fontello.woff?90983306
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\fontello\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/ui-fonts/rtui.eot?31081414
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\ui-fonts\rtui.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/ui-fonts/rtui.svg?31081414
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\ui-fonts\rtui.svg
+Content Type: image/svg+xml
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/ui-fonts/rtui.ttf?31081414
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\ui-fonts\rtui.ttf
+Content Type: font/ttf
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/ui-fonts/rtui.woff2?31081414
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\ui-fonts\rtui.woff2
+Content Type: font/woff2
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/css/ui-fonts/rtui.woff?31081414
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\css\ui-fonts\rtui.woff
+Content Type: font/woff
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/fonts/lg.eot?
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/fonts/lg.eot?n1z373
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/fonts/lg.svg?n1z373
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/fonts/lg.ttf?n1z373
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\fonts\lg.ttf
+Content Type: font/ttf
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/fonts/lg.woff?n1z373
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/images/lightbox-images/loading.gif
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\images\lightbox-images\loading.gif
+Content Type: image/gif
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/images/lightbox-images/video-play.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\images\lightbox-images\video-play.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/images/lightbox-images/vimeo-play.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\images\lightbox-images\vimeo-play.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/images/lightbox-images/youtube-play.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\images\lightbox-images\youtube-play.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/images/loading.gif
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\images\loading.gif
+Content Type: image/gif
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/images/nav-arrow.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\images\nav-arrow.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/images/preloader.gif
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/js/app.min.js?ver=1.9
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\js\app.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-content/themes/businesslounge/style.css?ver=1.9
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\themes\businesslounge\style.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/2017/06/map-2x-1024x479.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\06\map-2x-1024x479.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2017/06/map-2x-300x140.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\06\map-2x-300x140.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2017/06/map-2x-554x259.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\06\map-2x-554x259.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2017/06/map-2x-768x359.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\06\map-2x-768x359.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2017/06/map-2x.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\06\map-2x.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2017/06/project-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\06\project-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://icassessments.com/wp-content/uploads/2017/06/project-1-480x369.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\06\project-1-480x369.jpg
+Content Type: image/jpeg
+
+Uri: https://icassessments.com/wp-content/uploads/2017/06/project-1-960x960.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2017\06\project-1-960x960.jpg
+Content Type: image/jpeg
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/1-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\1-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/1-131x52.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\1-131x52.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/1-2.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\1-2.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/10-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\10-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/10-121x13.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\10-121x13.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/10.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\10.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/11-300x79.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\11-300x79.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/11-380x100.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\11-380x100.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/11.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\11.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/11nw.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\11nw.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/14-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\14-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/14-112x35.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\14-112x35.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/14.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\14.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/15-100x50.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\15-100x50.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/15.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\15.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/15nw.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\15nw.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/16-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\16-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/16-57x46.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\16-57x46.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/16.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\16.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/17-300x151.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\17-300x151.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/17-351x176.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\17-351x176.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/17.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\17.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/17nw.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\17nw.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/18-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\18-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/18-127x45.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\18-127x45.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/18.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\18.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/19-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\19-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/19-113x38.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\19-113x38.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/19.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\19.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/2-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\2-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/2-62x25.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\2-62x25.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/2.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\2.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/20-281x91.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\20-281x91.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/20-300x98.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\20-300x98.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/20.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\20.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/20nw.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\20nw.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/21-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\21-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/21-79x24.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\21-79x24.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/21.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\21.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/22-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\22-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/22-131x26.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\22-131x26.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/22.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\22.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/23-300x169.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\23-300x169.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/23-358x201.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\23-358x201.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/23.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\23.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/23nw.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\23nw.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/24-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\24-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/24-145x46.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\24-145x46.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/24.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\24.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/3-200x29.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\3-200x29.jpg
+Content Type: image/jpeg
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/3-300x44.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\3-300x44.jpg
+Content Type: image/jpeg
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/3.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\3.jpg
+Content Type: image/jpeg
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/3.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\3.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/5-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\5-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/5-36x56.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\5-36x56.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/5.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\5.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/6-1024x222.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\6-1024x222.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/6-300x65.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\6-300x65.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/6-600x130.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\6-600x130.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/6-768x166.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\6-768x166.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/6.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\6.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/7-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\7-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/7-300x49.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\7-300x49.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/7.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\7.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/8-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\8-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/8-100x35.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\8-100x35.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/8.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\8.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/9-1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\9-1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/9-90x25.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\9-90x25.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/9.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\9.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/cropped-Inter-logo-final-ICA-Black-180x180.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\cropped-Inter-logo-final-ICA-Black-180x180.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/cropped-Inter-logo-final-ICA-Black-192x192.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\cropped-Inter-logo-final-ICA-Black-192x192.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/cropped-Inter-logo-final-ICA-Black-32x32.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\cropped-Inter-logo-final-ICA-Black-32x32.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/fwl1-75x49.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\fwl1-75x49.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/fwl1.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\fwl1.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/07/logoblack.png
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\07\logoblack.png
+Content Type: image/png
+
+Uri: https://icassessments.com/wp-content/uploads/2020/09/globe-in-hand-300x196.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\09\globe-in-hand-300x196.jpg
+Content Type: image/jpeg
+
+Uri: https://icassessments.com/wp-content/uploads/2020/09/globe-in-hand-320x209.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\09\globe-in-hand-320x209.jpg
+Content Type: image/jpeg
+
+Uri: https://icassessments.com/wp-content/uploads/2020/09/globe-in-hand.jpg
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\2020\09\globe-in-hand.jpg
+Content Type: image/jpeg
+
+Uri: https://icassessments.com/wp-content/uploads/businesslounge/dynamic-style-4054.css?ver=210308092310
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\businesslounge\dynamic-style-4054.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/businesslounge/dynamic-style-4168.css?ver=210308093020
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\businesslounge\dynamic-style-4168.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/businesslounge/dynamic-style-4184.css?ver=210308123232
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\businesslounge\dynamic-style-4184.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/businesslounge/dynamic-style.css?ver=210308092232
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\businesslounge\dynamic-style.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-3914.css?ver=1628057823
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-3914.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-3915.css?ver=1628059694
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-3915.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-3916.css?ver=1628059951
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-3916.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-3917.css?ver=1628060248
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-3917.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-3918.css?ver=1628057831
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-3918.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-3925.css?ver=1628292469
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-3925.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-4054.css?ver=1627991310
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-4054.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-4168.css?ver=1628057880
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-4168.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-4184.css?ver=1628054217
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-4184.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-4220.css?ver=1628888265
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-4220.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-content/uploads/elementor/css/post-4540.css?ver=1627991307
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-content\uploads\elementor\css\post-4540.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6.12
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://icassessments.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-includes/js/wp-embed.min.js?ver=5.6.12
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://icassessments.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://icassessments.com/wp-json/
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fproject-details%2Fabc-bank-staff-training%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fproject-details%2Fabc-bank-staff-training%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fproject-details%2Fb-capital-finacial-training%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fproject-details%2Fb-capital-finacial-training%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fproject-details%2Feu-technology-summit-organization%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fproject-details%2Feu-technology-summit-organization%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fproject-details%2Ftech-drones-lansman%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fproject-details%2Ftech-drones-lansman%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fproject-details%2Fwonder-vr-lansman%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fproject-details%2Fwonder-vr-lansman%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fprojects%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fprojects%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fservices%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fservices%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fterms-of-use%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fterms-of-use%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fverify-certificate%2F
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ficassessments.com%2Fverify-certificate%2F&format=xml
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://icassessments.com/wp-json/wp/v2/pages/3925
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\wp\v2\pages\3925
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/wp/v2/pages/4054
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\wp\v2\pages\4054
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/wp/v2/pages/4168
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\wp\v2\pages\4168
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/wp/v2/pages/4184
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\wp\v2\pages\4184
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/wp/v2/pages/4220
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\wp\v2\pages\4220
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/wp/v2/pages/4894
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\wp\v2\pages\4894
+Content Type: application/json
+
+Uri: https://icassessments.com/wp-json/wp/v2/pages/4952
+File Name: C:\Downloaded Web Sites\icassessments.com\wp-json\wp\v2\pages\4952
+Content Type: application/json
+
+Uri: https://icassessments.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\icassessments.com\xmlrpc.php
+Content Type: text/xml
+
